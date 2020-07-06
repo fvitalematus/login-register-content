@@ -1,4 +1,3 @@
-# login-register-content
 Formulario de Inicio de Sesión y Registro de Usuarios con el Backend: PHP 7, MySQL | Frontend: HTML5, CSS3.
 ========================
 Formulario web de Inicio de Sesión y Registro de usuarios, con el fin de permitir registrar a usuarios en una Base de Datos y veririfcar cuando los usuarios inicien sesión en nuestra pagina web, para permitirles ver el contenido.
